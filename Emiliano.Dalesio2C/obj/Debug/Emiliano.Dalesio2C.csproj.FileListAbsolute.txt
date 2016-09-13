@@ -1,0 +1,9 @@
+C:\Users\Gui\Desktop\Practica Progra\Emiliano.Dalesio2C\Emiliano.Dalesio2C\bin\Debug\Emiliano.Dalesio2C.exe.config
+C:\Users\Gui\Desktop\Practica Progra\Emiliano.Dalesio2C\Emiliano.Dalesio2C\bin\Debug\Emiliano.Dalesio2C.exe
+C:\Users\Gui\Desktop\Practica Progra\Emiliano.Dalesio2C\Emiliano.Dalesio2C\bin\Debug\Emiliano.Dalesio2C.pdb
+C:\Users\Gui\Desktop\Practica Progra\Emiliano.Dalesio2C\Emiliano.Dalesio2C\obj\Debug\Emiliano.Dalesio2C.csprojResolveAssemblyReference.cache
+C:\Users\Gui\Desktop\Practica Progra\Emiliano.Dalesio2C\Emiliano.Dalesio2C\obj\Debug\Emiliano.Dalesio2C.Form1.resources
+C:\Users\Gui\Desktop\Practica Progra\Emiliano.Dalesio2C\Emiliano.Dalesio2C\obj\Debug\Emiliano.Dalesio2C.Properties.Resources.resources
+C:\Users\Gui\Desktop\Practica Progra\Emiliano.Dalesio2C\Emiliano.Dalesio2C\obj\Debug\Emiliano.Dalesio2C.csproj.GenerateResource.Cache
+C:\Users\Gui\Desktop\Practica Progra\Emiliano.Dalesio2C\Emiliano.Dalesio2C\obj\Debug\Emiliano.Dalesio2C.exe
+C:\Users\Gui\Desktop\Practica Progra\Emiliano.Dalesio2C\Emiliano.Dalesio2C\obj\Debug\Emiliano.Dalesio2C.pdb
